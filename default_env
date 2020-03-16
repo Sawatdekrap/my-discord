@@ -1,0 +1,7 @@
+# Client settings
+CLIENT_ID=""
+CLIENT_SECRET=""
+BOT_TOKEN=""
+
+# Bot settings
+COMMAND_PREFIX="!"
